@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-  int main(){
+int main(){
     int n,i,a[40],b;
     printf("enter n");
     scanf("%d",&n);
