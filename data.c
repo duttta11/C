@@ -1,5 +1,5 @@
 #include<stdio.h>
- int main(){
+int main(){
     int date,month,year;
     printf("enter your date :");
     scanf("%d",&date);
