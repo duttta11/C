@@ -1,4 +1,4 @@
- #include<stdio.h>
+#include<stdio.h>
  int main(){
     int date,month,year;
     printf("enter your date :");
