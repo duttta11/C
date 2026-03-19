@@ -1,5 +1,5 @@
 #include<stdio.h>
- int main(){
+int main(){
      int i,n,a[100],x;
     printf("enter range=");
     scanf("%d",&n);
