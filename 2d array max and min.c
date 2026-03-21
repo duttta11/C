@@ -1,5 +1,5 @@
 #include <stdio.h>
- int main(){
+int main(){
      int n , m;
     printf("enter the row and column of the array :");
     scanf("%d%d",&n,&m);
