@@ -30,6 +30,7 @@ int main(){
             }
         }
     }
+    
     printf("\nmaximum element of array : %d",max);
     printf("\nminimum element of array : %d",min);
     return 0;
