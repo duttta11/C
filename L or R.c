@@ -4,7 +4,6 @@ int main() {
     int count = 0;
     printf("Enter L and R: ");
     scanf("%d %d", &L, &R);
-
     for(i = L; i <= R; i++) {
         int last = i % 10;
 
