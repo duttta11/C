@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int L, R, i;
     int count = 0;
