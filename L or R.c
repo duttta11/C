@@ -10,8 +10,6 @@ int main() {
             count++;
         }
     }
-
     printf("Number of lucky numbers: %d", count);
-
     return 0;
 }
