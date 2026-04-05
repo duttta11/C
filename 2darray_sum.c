@@ -16,7 +16,6 @@ int main(){
         }
     }
     printf("the sum is %d",s);
-    
     return 0;
 }
 
