@@ -3,7 +3,9 @@ int main(){
     int r,c,i,j,s=0;
     printf("enter rows and cols=");
     scanf("%d %d",&r,&c);
-    int a[r][c]; 
+   
+    int a[r][c];
+    
     printf("enter elements= \n");
     for(i=0;i<r;i++){
         for(j=0;j<c;j++){
