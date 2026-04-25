@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<math.h>
+ #include<stdio.h>
+ #include<math.h>
 int main(){
     int n,i,a[40],b;
     printf("enter n");
@@ -15,5 +15,5 @@ int main(){
         if(i%2==0){
             b=pow(a[i],a[i+1]);}
             printf("a= %d\n ",b);}
-            return 0;
+            return 0; 
 }
