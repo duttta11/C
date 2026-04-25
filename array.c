@@ -9,8 +9,7 @@ int main(){
         scanf("%d",&a[i]);}
         printf("the array is\n");
          for(i=0;i<n;i++){
-             printf("%d ",a[i]);
-         }
+             printf("%d ",a[i]);}
          for(i=0;i<n;i++){
         if(i%2==0){
             b=pow(a[i],a[i+1]);}
