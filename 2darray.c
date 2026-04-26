@@ -1,5 +1,5 @@
-#include <stdio.h>
-int main() 
+ #include <stdio.h>
+ int main() 
 {
     int arr[2][2] = { {10, 20}, {30, 40} };
 
@@ -12,4 +12,4 @@ int main()
     }
 
     return 0;
-}
+ }
