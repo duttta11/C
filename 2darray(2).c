@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-     int r,c,i,j;
+    int r,c,i,j;
     printf("enter num of rows and cols=");
     scanf("%d%d",&r,&c);
     int a[r][c];
