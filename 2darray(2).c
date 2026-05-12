@@ -1,5 +1,5 @@
 #include<stdio.h>
- int main(){
+int main(){
      int r,c,i,j;
     printf("enter num of rows and cols=");
     scanf("%d%d",&r,&c);
