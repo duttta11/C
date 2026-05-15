@@ -1,6 +1,6 @@
-#include <stdio.h>
-int main() {
-    int L, R, i;
+ #include <stdio.h>
+ int main() {
+     int L, R, i;
     int count = 0;
     printf("Enter L and R: ");
     scanf("%d %d", &L, &R);
